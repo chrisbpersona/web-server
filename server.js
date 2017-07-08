@@ -18,8 +18,6 @@ var middleware = {
 
 //app.use(middleware.requireAuthentication);
 
-
-
 // app.get('/', function (req, res) {
 // 	res.send('Hello Express');
 // });
